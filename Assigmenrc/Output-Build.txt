@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Assigmenrc, Configuration: Debug Any CPU ------
+1>Assigmenrc -> C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\bin\Debug\netcoreapp3.1\Assigmenrc.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

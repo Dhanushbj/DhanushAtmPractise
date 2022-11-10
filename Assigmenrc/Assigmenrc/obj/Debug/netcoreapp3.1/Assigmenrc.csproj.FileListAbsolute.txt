@@ -1,0 +1,13 @@
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\bin\Debug\netcoreapp3.1\Assigmenrc.exe
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\bin\Debug\netcoreapp3.1\Assigmenrc.deps.json
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\bin\Debug\netcoreapp3.1\Assigmenrc.runtimeconfig.json
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\bin\Debug\netcoreapp3.1\Assigmenrc.runtimeconfig.dev.json
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\bin\Debug\netcoreapp3.1\Assigmenrc.dll
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\bin\Debug\netcoreapp3.1\Assigmenrc.pdb
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\obj\Debug\netcoreapp3.1\Assigmenrc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\obj\Debug\netcoreapp3.1\Assigmenrc.AssemblyInfoInputs.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\obj\Debug\netcoreapp3.1\Assigmenrc.AssemblyInfo.cs
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\obj\Debug\netcoreapp3.1\Assigmenrc.csproj.CoreCompileInputs.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\obj\Debug\netcoreapp3.1\Assigmenrc.dll
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\obj\Debug\netcoreapp3.1\Assigmenrc.pdb
+C:\Users\2000080634\Documents\Visual Studio 2019\Assigmenrc\Assigmenrc\obj\Debug\netcoreapp3.1\Assigmenrc.genruntimeconfig.cache
