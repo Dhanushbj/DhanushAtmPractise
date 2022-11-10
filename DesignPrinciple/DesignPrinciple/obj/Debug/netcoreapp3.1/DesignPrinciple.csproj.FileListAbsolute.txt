@@ -1,0 +1,14 @@
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\bin\Debug\netcoreapp3.1\DesignPrinciple.exe
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\bin\Debug\netcoreapp3.1\DesignPrinciple.deps.json
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\bin\Debug\netcoreapp3.1\DesignPrinciple.runtimeconfig.json
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\bin\Debug\netcoreapp3.1\DesignPrinciple.runtimeconfig.dev.json
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\bin\Debug\netcoreapp3.1\DesignPrinciple.dll
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\bin\Debug\netcoreapp3.1\DesignPrinciple.pdb
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\obj\Debug\netcoreapp3.1\DesignPrinciple.csproj.AssemblyReference.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\obj\Debug\netcoreapp3.1\DesignPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\obj\Debug\netcoreapp3.1\DesignPrinciple.AssemblyInfoInputs.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\obj\Debug\netcoreapp3.1\DesignPrinciple.AssemblyInfo.cs
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\obj\Debug\netcoreapp3.1\DesignPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\obj\Debug\netcoreapp3.1\DesignPrinciple.dll
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\obj\Debug\netcoreapp3.1\DesignPrinciple.pdb
+C:\Users\2000080634\Documents\Visual Studio 2019\DesignPrinciple\DesignPrinciple\obj\Debug\netcoreapp3.1\DesignPrinciple.genruntimeconfig.cache

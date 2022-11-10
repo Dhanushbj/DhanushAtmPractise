@@ -1,0 +1,14 @@
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\bin\Debug\netcoreapp3.1\DemoApp1.exe
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\bin\Debug\netcoreapp3.1\DemoApp1.deps.json
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\bin\Debug\netcoreapp3.1\DemoApp1.runtimeconfig.json
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\bin\Debug\netcoreapp3.1\DemoApp1.runtimeconfig.dev.json
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\bin\Debug\netcoreapp3.1\DemoApp1.dll
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\bin\Debug\netcoreapp3.1\DemoApp1.pdb
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\obj\Debug\netcoreapp3.1\DemoApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\obj\Debug\netcoreapp3.1\DemoApp1.AssemblyInfoInputs.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\obj\Debug\netcoreapp3.1\DemoApp1.AssemblyInfo.cs
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\obj\Debug\netcoreapp3.1\DemoApp1.csproj.CoreCompileInputs.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\obj\Debug\netcoreapp3.1\DemoApp1.dll
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\obj\Debug\netcoreapp3.1\DemoApp1.pdb
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\obj\Debug\netcoreapp3.1\DemoApp1.genruntimeconfig.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\DemoApp1\DemoApp1\obj\Debug\netcoreapp3.1\DemoApp1.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\bin\Debug\netcoreapp3.1\CustomerOrderLibrary.deps.json
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\bin\Debug\netcoreapp3.1\CustomerOrderLibrary.dll
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\bin\Debug\netcoreapp3.1\CustomerOrderLibrary.pdb
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.csproj.AssemblyReference.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.AssemblyInfoInputs.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.AssemblyInfo.cs
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.dll
+C:\Users\2000080634\Documents\Visual Studio 2019\DLLImplementationDemo\CustomerOrderLibrary\obj\Debug\netcoreapp3.1\CustomerOrderLibrary.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerOrderLibrary", "CustomerOrderLibrary\CustomerOrderLibrary.csproj", "{D3D2FDAB-7C9F-442C-80B3-D8B0C71AFCF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerOrderServiceTestAPP", "..\CustomerOrderServiceTestAPP\CustomerOrderServiceTestAPP.csproj", "{280D80E1-AFB7-43FB-B4C4-1A1FB4C34F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D2FDAB-7C9F-442C-80B3-D8B0C71AFCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D2FDAB-7C9F-442C-80B3-D8B0C71AFCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D2FDAB-7C9F-442C-80B3-D8B0C71AFCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D2FDAB-7C9F-442C-80B3-D8B0C71AFCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280D80E1-AFB7-43FB-B4C4-1A1FB4C34F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280D80E1-AFB7-43FB-B4C4-1A1FB4C34F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280D80E1-AFB7-43FB-B4C4-1A1FB4C34F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280D80E1-AFB7-43FB-B4C4-1A1FB4C34F17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB39020C-F658-4464-A32F-3E283BDB84F4}
+	EndGlobalSection
+EndGlobal
